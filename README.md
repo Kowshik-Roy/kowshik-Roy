@@ -60,8 +60,8 @@
 ---
 
 ## 📫 Contact Me
-- GitHub: https://github.com/yourusername  
-- Email: yourmail@example.com  
+- GitHub: https://github.com/Kowshik-Roy
+- Email: kowshikroy2021@gmail.com  
 
 ---
 
